@@ -1,4 +1,4 @@
-# maze-search-algorithms
+# Maze search algorithms
 
 Maze solving with BFS, DFS, UCS and A* search algorithms — Python
 
